@@ -1,3 +1,3 @@
 # Research Assistance Policy
 
-Last Amended:
+Last Amended: July 16, 2018
