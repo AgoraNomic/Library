@@ -1,9 +1,9 @@
 ## Policies
 
-[Collection Development Policy](CDP.txt)
+[Collection Development Policy](CDP.md)
 
-[Donation Policy](Donations.txt)
+[Donation Policy](Donations.md)
 
-[Copyright Policy](Copyright.txt)
+[Copyright Policy](Copyright.md)
 
-[Research Assistance Policy](RAP.txt)
+[Research Assistance Policy](RAP.md)
